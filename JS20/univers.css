@@ -1,0 +1,354 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blok{
+    width: 90%;
+    height: 500px;
+    background: url(img/img.jpg);
+    background-repeat: no-repeat;
+    margin-left: 7%;
+}
+
+.icons{
+    margin-left: 2%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: blue;
+
+}
+ul{
+     height: 50px;
+    display: flex;
+    align-items: center;
+    width: 65%;
+}
+li{
+    list-style: none;
+    padding: 5%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.emailphone{
+    display: flex;
+    align-items: center;
+}
+.select{
+    padding-top: 4%;
+padding-left: 37%;
+}
+select{
+background-color: transparent;
+border: none;
+}
+.blok2{
+    display: flex;
+text-align: center;
+    margin-top: 10%;
+}
+.qism1{
+    text-align: center;
+    margin-left: 2%;
+}
+.b1{
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 10%;
+}
+.i1{
+    font-size: 15px;
+    background-color: gray;
+    border-radius: 90px;
+    width: 70px;
+    height: 35px;
+}
+.blok3{
+    background: url(img/Rectangle\ 32.png);
+    width: 100%;
+    height: 190px;
+}
+.stats{
+    display: flex;
+    align-items: center;
+}
+
+h4{
+    margin-top: 5%;
+    margin-left: 45%;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+}
+
+.talaba h6{
+    font-size: 25px;
+    padding-top: 2%;
+    padding-left: 120%;
+    color: white;
+
+}
+.talaba ion-icon{
+    font-size: 35px;
+    padding-top: 1%;
+    padding-left: 130%;
+    color: white;
+}
+.talaba h5{
+    font-size: 25px;
+    padding-top: 1%;
+    padding-left: 100%;
+    color: white;
+}
+.lampa h2{
+    font-size: 25px;
+    padding-top: -10%;
+    padding-left:650%;
+    color:white;
+
+}
+.lampa ion-icon{
+    font-size: 35px;
+    padding-top: 1%;
+    padding-left: 651%;
+    color:white;
+}
+.lampa h6{
+    font-size: 25px;
+    padding-top: 1%;
+    padding-left: 650%;
+    color: white;
+}
+.oquv h1{
+    font-size: 25px;
+    padding-top: -10%;
+    padding-left: 461%;
+    color:white;
+}
+.oquv ion-icon{
+    font-size: 35px;
+    padding-top: 1%;
+    padding-left: 460%;
+    color:white;
+}
+.oquv h3{
+    font-size: 25px;
+    padding-top: 1%;
+    padding-left: 430%;
+    color: white;
+}
+.fan h4{
+    font-size: 25px;
+    padding-top: -10%;
+    padding-left: 520%;
+    color:white;
+
+}
+.fan ion-icon{
+    font-size: 35px;
+    padding-top: 4%;
+    padding-left: 565%;
+    color:white;
+}
+.fan h2{
+    font-size: 25px;
+    padding-left: 565%;
+    color: white;
+}
+
+.yangili h5{
+    font-size: 55px;
+    font-weight: 300;
+    margin-top: 5%;
+    margin-left: 35%;
+    }
+
+.img1{
+    width: 80%;
+    height:60%;
+}
+.rasm{
+    width: 30%;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 5%;
+}
+
+.rasm h6{
+    font-size: 15px;
+    font-weight: 900;
+}
+
+
+.b5{
+
+        width: 150px;
+        height: 70px;
+        background-color: blue;
+        color: white;
+        font-size: 15px;
+        margin-left: 5%;
+        border: none;
+        margin-top: 10%;
+    }
+
+    
+    .rasm1{
+        width: 30%;
+        height: 500px;
+        border: 2px solid black;
+        margin-left: 35%;
+        margin-top: -33%;
+    }
+        .img2{
+            width: 80%;
+            height: 40%;
+        }
+        .rasm1 h4{
+            color: black;
+            margin-left: 10%;
+        }
+        .b6{
+            
+    
+            width: 150px;
+            height: 70px;
+            background-color: blue;
+            color: white;
+            font-size: 15px;
+            margin-left: 5%;
+            border: none;
+            margin-top: 10%;
+        }
+    
+    
+        .rasm2{
+            width: 30%;
+            height: 500px;
+            border: 2px solid black;
+            margin-left: 70%;
+            margin-top: -33%;
+        }
+            .img3{
+                width: 80%;
+                height: 50%;
+            }
+            .rasm2 h2{
+                color: black;
+                margin-left: 10%;
+            }
+            .b7{
+                
+        
+                width: 150px;
+                height: 70px;
+                background-color: blue;
+                color: white;
+                font-size: 15px;
+                margin-left: 5%;
+                border: none;
+                margin-top: 10%;
+            }
+        
+            
+
+.img1{
+    width: 80%;
+    height:60%;
+}
+.rasm{
+    width: 30%;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 5%;
+}
+
+.rasm h6{
+    font-size: 15px;
+    font-weight: 900;
+}
+
+
+.b5{
+
+        width: 150px;
+        height: 70px;
+        background-color: blue;
+        color: white;
+        font-size: 15px;
+        margin-left: 5%;
+        border: none;
+        margin-top: 10%;
+    }
+
+    
+    .rasm1{
+        width: 30%;
+        height: 500px;
+        border: 2px solid black;
+        margin-left: 35%;
+        margin-top: -33%;
+    }
+        .img2{
+            width: 80%;
+            height: 40%;
+        }
+        .rasm1 h4{
+            color: black;
+            margin-left: 10%;
+        }
+        .b6{
+            
+    
+            width: 150px;
+            height: 70px;
+            background-color: blue;
+            color: white;
+            font-size: 15px;
+            margin-left: 5%;
+            border: none;
+            margin-top: 10%;
+        }
+    
+    
+        .rasm2{
+            width: 30%;
+            height: 500px;
+            border: 2px solid black;
+            margin-left: 70%;
+            margin-top: -33%;
+        }
+            .img3{
+                width: 80%;
+                height: 50%;
+            }
+            .rasm2 h2{
+                color: black;
+                margin-left: 10%;
+            }
+            .b7{
+                
+        
+                width: 150px;
+                height: 70px;
+                background-color: blue;
+                color: white;
+                font-size: 15px;
+                margin-left: 5%;
+                border: none;
+                margin-top: 10%;
+            }
+        
+            
